@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Rizky Nanda Praditia 👋</h1>
+<h1 align="center">Hi, I'm Rizky Nanda Praditia </h1>
 <h3 align="center">AI Automation Engineer · Yogyakarta, Indonesia 🇮🇩</h3>
 
 <p align="center">
