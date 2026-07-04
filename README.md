@@ -14,18 +14,18 @@ I build LLM-powered chatbots and n8n automation workflows for business clients �
 
 ---
 
-## 🧠 What I Do
+## What I Do
 
 Currently **AI Trainer at Aksoro**, building AI customer service chatbots for clients on the Malika (Cekat) platform, integrated with n8n automation.
 
-- ✍️ **Prompt Engineering** — designing, writing & debugging system prompts for FAQ handling, lead qualification, and order tracking
-- 🤖 **AI Automation** — building n8n workflows connecting AI agents to WhatsApp, CRM, and clients' internal systems
-- 🔎 **LLM Systems** — RAG pipeline design, agent architecture, and Knowledge Source / routing optimization
-- 🔌 **API Integration** — troubleshooting integrations and iterating on prompts from performance evaluation
+- **Prompt Engineering** — designing, writing & debugging system prompts for FAQ handling, lead qualification, and order tracking
+- **AI Automation** — building n8n workflows connecting AI agents to WhatsApp, CRM, and clients' internal systems
+- **LLM Systems** — RAG pipeline design, agent architecture, and Knowledge Source / routing optimization
+- **API Integration** — troubleshooting integrations and iterating on prompts from performance evaluation
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 **AI / LLM**
 
@@ -50,33 +50,30 @@ Currently **AI Trainer at Aksoro**, building AI customer service chatbots for cl
 
 ---
 
-## 🚀 Featured Projects
+## Featured Projects
 
-### ApplyIQ — AI Job Application Assistant
+### [ApplyIQ](https://github.com/rizkynandapr/applyiq-web) — AI Job Application Assistant
 `React 19` `Vite` `n8n` `Supabase` `LLM`
 - Web app that automates job hunting: matches a user's resume to relevant roles and generates a tailored cover letter for each
 - Client-side resume parsing (pdf.js, mammoth) → n8n AI pipeline scores matches → results land in Supabase with a live dashboard (match-score meters, one-click cover-letter copy)
-- 🔗 [Code](https://github.com/rizkynandapr/applyiq-web)
 
-### TalentScout — AI-Powered Recruitment Pipeline
+### [TalentScout](https://github.com/rizkynandapr/TalentScout-AI-Recruitment) — AI-Powered Recruitment Pipeline
 `AI Workflow Automation` `Prompt Engineering` `LLM Inference`
 - Recruitment pipeline that objectifies CV screening — LLM-based extraction + real-time gap analysis against job requirements, reducing screening turnaround and human bias
 - Weighted scoring engine (40% hard skills, 30% experience, 20% education, 10% achievement) with auto-generated HTML executive dashboards and tailored interview recommendations
-- 🔗 [Code](https://github.com/rizkynandapr/TalentScout-AI-Recruitment)
 
-### Clickbait Detector — NLP model to flag sensationalized headlines
+### [Clickbait Detector](https://github.com/rizkynandapr/clickbait-detector) — NLP model to flag sensationalized headlines
 `TensorFlow` `LSTM` `Streamlit` `HuggingFace Spaces`
 - LSTM trained on ~32k balanced English headlines, reaching **~98% accuracy** (0.99 precision on the clickbait class)
 - Deployed as an interactive Streamlit app on Hugging Face Spaces
-- 🔗 [Demo](https://huggingface.co/spaces/nandutt/clickbait_detektor) · [Code](https://github.com/rizkynandapr/clickbait-detector)
+- 🔗 [Live Demo](https://huggingface.co/spaces/nandutt/clickbait_detektor)
 
 ---
 
-## 🎓 Education & Certifications
+## Education & Certifications
 
-- 🎓 **B.Tech, Information Technology** — Universitas Muhammadiyah Yogyakarta (2021–2025)
-- 🏆 **Data Science Bootcamp** — Hacktiv8 Indonesia (2026)
-
+- **B.Tech, Information Technology** — Universitas Muhammadiyah Yogyakarta (2021–2025)
+- **Data Science Bootcamp** — Hacktiv8 Indonesia (2026)
 
 ---
 
