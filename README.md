@@ -52,17 +52,17 @@ Currently **AI Trainer at Aksoro**, building AI customer service chatbots for cl
 
 ## 🚀 Featured Projects
 
-### ApplyIQ — [ONE-LINER: apa fungsinya]
-`[tech]` `[tech]` `[tech]`
-- [Poin 1: masalah yang diselesaikan / apa yang dibangun]
-- [Poin 2: hasil / fitur utama]
-- 🔗 [Demo]([LINK]) · [Code]([LINK])
+### ApplyIQ — AI Job Application Assistant
+`React 19` `Vite` `n8n` `Supabase` `LLM`
+- Web app that automates job hunting: matches a user's resume to relevant roles and generates a tailored cover letter for each
+- Client-side resume parsing (pdf.js, mammoth) → n8n AI pipeline scores matches → results land in Supabase with a live dashboard (match-score meters, one-click cover-letter copy)
+- 🔗 [Code](https://github.com/rizkynandapr/applyiq-web)
 
-### TalentScout — [ONE-LINER: apa fungsinya]
-`[tech]` `[tech]` `[tech]`
-- [Poin 1]
-- [Poin 2]
-- 🔗 [Demo]([LINK]) · [Code]([LINK])
+### TalentScout — AI-Powered Recruitment Pipeline
+`AI Workflow Automation` `Prompt Engineering` `LLM Inference`
+- Recruitment pipeline that objectifies CV screening — LLM-based extraction + real-time gap analysis against job requirements, reducing screening turnaround and human bias
+- Weighted scoring engine (40% hard skills, 30% experience, 20% education, 10% achievement) with auto-generated HTML executive dashboards and tailored interview recommendations
+- 🔗 [Code](https://github.com/rizkynandapr/TalentScout-AI-Recruitment)
 
 ### Clickbait Detector — NLP model to flag sensationalized headlines
 `TensorFlow` `LSTM` `Streamlit` `HuggingFace Spaces`
@@ -76,7 +76,7 @@ Currently **AI Trainer at Aksoro**, building AI customer service chatbots for cl
 
 - 🎓 **B.Tech, Information Technology** — Universitas Muhammadiyah Yogyakarta (2021–2025)
 - 🏆 **Data Science Bootcamp** — Hacktiv8 Indonesia (2026)
-- 📜 Certified Associate Data Scientist · SQL (Advanced) · Lloyds Banking Group Data Science Job Simulation
+
 
 ---
 
