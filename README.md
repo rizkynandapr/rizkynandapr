@@ -94,7 +94,7 @@ An LSTM trained on about 32k balanced English headlines, hitting ~98% accuracy w
 <br/>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rizkynandapr&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Rizky's GitHub stats" height="160"/>
+  <img src="https://github-readme-stats-alpha-plum-70.vercel.app/api?username=rizkynandapr&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Rizky's GitHub stats" height="160"/>
   &nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rizkynandapr&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top languages" height="160"/>
+  <img src="https://github-readme-stats-alpha-plum-70.vercel.app/api/top-langs/?username=rizkynandapr&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top languages" height="160"/>
 </p>
