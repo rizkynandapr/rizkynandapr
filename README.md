@@ -137,7 +137,9 @@ I put it behind a live Streamlit app so people could paste a headline and get an
 <img src="https://github-readme-stats-alpha-plum-70.vercel.app/api?username=rizkynandapr&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub stats" height="165"/>
 <img src="https://github-readme-stats-alpha-plum-70.vercel.app/api/top-langs/?username=rizkynandapr&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top languages" height="165"/>
 
-<br/><br/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=rizkynandapr&theme=tokyo-night&hide_border=true&area=true&color=D97757&line=D97757&point=FFFFFF" alt="Activity graph" width="98%"/>
+
+<br/>
 
 *Building AI that does the work, so people don't have to.*
 
