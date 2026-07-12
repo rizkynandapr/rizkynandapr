@@ -10,6 +10,7 @@ I build WhatsApp chatbots and n8n automations for small businesses in Indonesia 
   <a href="https://rizky-portfolio-phi.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-Visit-000000?logo=vercel&logoColor=white" alt="Portfolio"/></a>
   <a href="mailto:rizkynandapr@gmail.com"><img src="https://img.shields.io/badge/Email-Say%20Hi-EA4335?logo=gmail&logoColor=white" alt="Email"/></a>
   <a href="https://huggingface.co/nandutt"><img src="https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-Spaces-FFD21E" alt="Hugging Face"/></a>
+  ![](https://komarev.com/ghpvc/?username=rizkynandapr&color=blue)
 </p>
 
 ---
@@ -22,7 +23,7 @@ Day to day that means writing and debugging system prompts, connecting AI agents
 
 Things I work with a lot: RAG setups, agent routing, knowledge source tuning, and the unglamorous debugging that decides whether a bot is actually usable.
 
-![](https://komarev.com/ghpvc/?username=rizkynandapr&color=blue)
+
 ---
 
 ## Tech stack
