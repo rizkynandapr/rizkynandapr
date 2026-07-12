@@ -4,7 +4,6 @@
 <p align="center">
 I build WhatsApp chatbots and n8n automations for small businesses in Indonesia — mostly AI customer service agents that answer questions, take orders, and don't need a human watching them at 2am.
   
-![](https://komarev.com/ghpvc/?username=rizkynandapr&color=blue)
 </p>
 
 <p align="center">
@@ -12,7 +11,7 @@ I build WhatsApp chatbots and n8n automations for small businesses in Indonesia 
   <a href="https://rizky-portfolio-phi.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-Visit-000000?logo=vercel&logoColor=white" alt="Portfolio"/></a>
   <a href="mailto:rizkynandapr@gmail.com"><img src="https://img.shields.io/badge/Email-Say%20Hi-EA4335?logo=gmail&logoColor=white" alt="Email"/></a>
   <a href="https://huggingface.co/nandutt"><img src="https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-Spaces-FFD21E" alt="Hugging Face"/></a>
-  
+  <a ![](https://komarev.com/ghpvc/?username=rizkynandapr&color=blue)>
 </p>
 
 ---
