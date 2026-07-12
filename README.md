@@ -4,7 +4,7 @@
 
 **AI Automation Engineer** · Yogyakarta, Indonesia 🇮🇩
 
-I design and ship AI agents that handle real work — answering customers, taking orders,<br/>and running the busywork on their own — for small businesses across Indonesia.
+I build AI agents that handle real work for small businesses in Indonesia —<br/>answering customers, taking orders, and keeping things moving when nobody's around to.
 
 <br/>
 
@@ -18,30 +18,28 @@ I design and ship AI agents that handle real work — answering customers, takin
 
 </div>
 
-<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" alt="snake animation" width="100%"/>
-
 ---
 
-##  Who I am
+## 👋 Who I am
 
-I'm an **AI Engineer** who builds automation for a living. Right now I'm an AI Trainer at **Aksoro**, designing customer service agents on the Malika (Cekat) platform and wiring them into n8n pipelines.
+I'm an AI Engineer, and I build automation for a living. These days that's at Aksoro, where I design customer service agents on the Malika (Cekat) platform and hook them into n8n.
 
-My work sits in the gap between *"the AI demo looks amazing"* and *"the AI actually holds up when real customers type into it."* That gap is where most AI projects quietly fail — a prompt that worked yesterday breaks on an edge case today, an agent routes to the wrong tool, a knowledge base answers confidently and wrongly. Closing that gap is the job I actually do.
+Most of my job lives in one specific gap: the demo works, then a real customer types something weird and the whole thing falls apart. That's where AI projects usually die. A prompt that was fine yesterday chokes on an edge case today. An agent picks the wrong tool. A knowledge base answers fast, confident, and completely wrong. My actual work is making sure that doesn't happen once real people are on the other end.
 
-So a normal week for me looks like: designing system prompts and agent behavior, connecting LLMs to WhatsApp and clients' internal tools, building n8n workflows that move data between APIs, and debugging the messy production failures that decide whether a bot is a toy or a tool.
+So a normal week is some mix of designing prompts and agent behavior, wiring LLMs into WhatsApp and whatever internal tools a client runs, building n8n flows to shuffle data between APIs, and digging through production logs when something breaks in a way nobody predicted.
 
-I came into this from **data science** — so when a problem needs Python, pandas, or a trained model instead of a prompt, I reach for that too. But my craft today is clear: **turning language models into systems that do reliable work without someone watching them.**
+I started out in data science, so when a problem actually needs Python or a trained model instead of a prompt, I've got that in my back pocket. But the thing I'm good at now is narrower and clearer: taking a language model and turning it into something that does real work without a human babysitting it.
 
 ```yaml
 role:        AI Engineer · Automation Builder
 building:    LLM agents · RAG systems · n8n automations
-comfort:     making AI survive real users, not just demos
-learning:    LLM Zoomcamp 2026 — one production bug at a time
+good at:     making AI hold up with real users, not just in demos
+learning:    LLM Zoomcamp 2026, one production bug at a time
 ```
 
 ---
 
-##  Tech stack
+## 🧰 Tech stack
 
 **AI / LLM Engineering**
 
@@ -67,7 +65,7 @@ learning:    LLM Zoomcamp 2026 — one production bug at a time
 
 ---
 
-##  Featured projects
+## 🚀 Featured projects
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=D97757&height=3&section=header" width="100%"/>
 
@@ -75,39 +73,39 @@ learning:    LLM Zoomcamp 2026 — one production bug at a time
 <tr>
 <td width="50%" valign="top">
 
-###  [WhatsApp AI Chatbot for SMBs](https://github.com/rizkynandapr/n8n-whatsapp-ai-chatbot)
+### 🤖 [WhatsApp AI Chatbot for SMBs](https://github.com/rizkynandapr/n8n-whatsapp-ai-chatbot)
 `n8n` `WhatsApp Cloud API` `Claude API` `Sheets`
 
-My cousin makes raincoats. Every rainy season, one person drowns trying to answer a flood of WhatsApp orders by hand. Every SMB here has some version of that — so I engineered the fix **once**, as a reusable template.
+My cousin makes raincoats. Every rainy season, one person drowns trying to answer a flood of WhatsApp orders by hand. Every SMB here has some version of that, so I built the fix **once** as a reusable template.
 
-It turns a WhatsApp Business number into an agent that answers with conversation memory, detects a complete order and logs it to Sheets, pings the owner instantly, and follows up on leads that went quiet. All client-specific config lives in one node → **a new business goes live in under 30 minutes.**
+It turns a WhatsApp Business number into an agent that answers with conversation memory, spots a complete order and logs it to Sheets, pings the owner right away, and chases up leads that went quiet. Everything client-specific sits in one node, so standing it up for the next business takes **under 30 minutes.**
 
 </td>
 <td width="50%" valign="top">
 
-###  [ApplyIQ](https://github.com/rizkynandapr/applyiq-web)
+### 📄 [ApplyIQ](https://github.com/rizkynandapr/applyiq-web)
 `React 19` `Vite` `n8n` `Supabase` `LLM`
 
-The repetitive parts of job hunting, automated: match a resume to roles worth applying to, then draft a tailored cover letter for each.
+The repetitive parts of job hunting, done for you: match your resume to roles worth applying to, then draft a cover letter for each one.
 
-The resume is parsed **in the browser** (pdf.js, mammoth) so nothing leaves as a raw file. An n8n pipeline scores each listing against the profile, and results land on a Supabase dashboard with match meters and one-click copy.
+The resume is parsed **in the browser** (pdf.js, mammoth) so nothing leaves as a raw file. An n8n pipeline scores each listing against your profile, and the results land on a Supabase dashboard with match meters and one-click copy.
 
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
 
-###  [TalentScout](https://github.com/rizkynandapr/TalentScout-AI-Recruitment)
+### 🎯 [TalentScout](https://github.com/rizkynandapr/TalentScout-AI-Recruitment)
 `Workflow Automation` `Prompt Engineering` `LLM`
 
 Screening CVs by hand doesn't scale, and two reviewers rarely agree on who's qualified anyway.
 
-It takes a CV + job description, runs an LLM gap analysis against the requirements, and scores fit on **fixed weights** (40% hard skills, 30% experience, 20% education, 10% achievements) so every candidate is judged the same way. Output is an HTML dashboard a hiring manager can act on.
+It takes a CV and a job description, runs an LLM gap analysis against the requirements, and scores fit on **fixed weights** (40% hard skills, 30% experience, 20% education, 10% achievements) so every candidate gets judged the same way. Output is an HTML dashboard a hiring manager can actually act on.
 
 </td>
 <td width="50%" valign="top">
 
-###  [Clickbait Detector](https://github.com/rizkynandapr/clickbait-detector)
+### 📰 [Clickbait Detector](https://github.com/rizkynandapr/clickbait-detector)
 `TensorFlow` `LSTM` `Streamlit` `HF Spaces`
 
 An LSTM trained on ~32k balanced English headlines — **~98% accuracy, 0.99 precision** on the clickbait class.
@@ -124,7 +122,7 @@ I put it behind a live Streamlit app so people could paste a headline and get an
 
 ---
 
-## Education & certifications
+## 🎓 Education & certifications
 
 - **S.Kom, Informatics** — Universitas Muhammadiyah Yogyakarta · 2021–2025
 - **Data Science Bootcamp** — Hacktiv8 Indonesia · 2026 *(480+ hrs — Python, SQL, ML)*
@@ -134,13 +132,13 @@ I put it behind a live Streamlit app so people could paste a headline and get an
 
 <div align="center">
 
-## GitHub in numbers
+## 📊 GitHub in numbers
 
 <img src="https://github-readme-stats-alpha-plum-70.vercel.app/api?username=rizkynandapr&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub stats" height="165"/>
 <img src="https://github-readme-stats-alpha-plum-70.vercel.app/api/top-langs/?username=rizkynandapr&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top languages" height="165"/>
 
 <br/><br/>
 
-*Building AI that does the work — so people don't have to.*
+*Building AI that does the work, so people don't have to.*
 
 </div>
