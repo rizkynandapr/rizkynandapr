@@ -22,6 +22,7 @@ Day to day that means writing and debugging system prompts, connecting AI agents
 
 Things I work with a lot: RAG setups, agent routing, knowledge source tuning, and the unglamorous debugging that decides whether a bot is actually usable.
 
+![](https://komarev.com/ghpvc/?username=rizkynandapr&color=blue)
 ---
 
 ## Tech stack
