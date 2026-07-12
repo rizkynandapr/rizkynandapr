@@ -84,7 +84,7 @@ An LSTM trained on about 32k balanced English headlines, hitting ~98% accuracy w
 
 - B.Tech, Information Technology — Universitas Muhammadiyah Yogyakarta (2021–2025)
 - Data Science Bootcamp — Hacktiv8 Indonesia (2026)
-- AI Fluency — Anthropic Academy
+
 
 ---
 
