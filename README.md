@@ -2,7 +2,7 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=26&pause=1200&color=D97757&center=true&vCenter=true&width=650&lines=Hi%2C+I'm+Rizky+Nanda+Praditia;AI+Engineer+%C2%B7+Automation+Builder;I+design+AI+agents+that+run+on+their+own" alt="Typing SVG" />
 
-**AI Automation Engineer** · Yogyakarta, Indonesia 🇮🇩
+**AI Automation Engineer** · Yogyakarta, Indonesia
 
 I build AI agents that handle real work for small businesses in Indonesia —<br/>answering customers, taking orders, and keeping things moving when nobody's around to.
 
@@ -12,7 +12,7 @@ I build AI agents that handle real work for small businesses in Indonesia —<br
 <a href="https://portfolio-zeta-ruby-65.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-Visit-000000?logo=vercel&logoColor=white&style=for-the-badge" alt="Portfolio"/></a>
 <a href="https://huggingface.co/nandutt"><img src="https://img.shields.io/badge/%F0%9F%A4%97%20Spaces-FFD21E?style=for-the-badge" alt="Hugging Face"/></a>
 
-<a href="mailto:rizkynandapr@gmail.com">📧 rizkynandapr@gmail.com</a>
+<a href="mailto:rizkynandapr@gmail.com">rizkynandapr@gmail.com</a>
 
 <img src="https://komarev.com/ghpvc/?username=rizkynandapr&label=Profile%20Views&color=D97757&style=flat-square" alt="Profile Views"/>
 
@@ -20,7 +20,7 @@ I build AI agents that handle real work for small businesses in Indonesia —<br
 
 ---
 
-## 👋 Who I am
+## Who I am
 
 I'm an AI Engineer, and I build automation for a living. These days that's at Aksoro, where I design customer service agents on the Malika (Cekat) platform and hook them into n8n.
 
@@ -39,7 +39,7 @@ learning:    LLM Zoomcamp 2026, one production bug at a time
 
 ---
 
-## 🧰 Tech stack
+## Tech stack
 
 **AI / LLM Engineering**
 
@@ -65,7 +65,7 @@ learning:    LLM Zoomcamp 2026, one production bug at a time
 
 ---
 
-## 🚀 Featured projects
+## Featured projects
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=D97757&height=3&section=header" width="100%"/>
 
@@ -73,7 +73,7 @@ learning:    LLM Zoomcamp 2026, one production bug at a time
 <tr>
 <td width="50%" valign="top">
 
-### 🤖 [WhatsApp AI Chatbot for SMBs](https://github.com/rizkynandapr/n8n-whatsapp-ai-chatbot)
+### [WhatsApp AI Chatbot for SMBs](https://github.com/rizkynandapr/n8n-whatsapp-ai-chatbot)
 `n8n` `WhatsApp Cloud API` `Claude API` `Sheets`
 
 My cousin makes raincoats. Every rainy season, one person drowns trying to answer a flood of WhatsApp orders by hand. Every SMB here has some version of that, so I built the fix **once** as a reusable template.
@@ -83,7 +83,7 @@ It turns a WhatsApp Business number into an agent that answers with conversation
 </td>
 <td width="50%" valign="top">
 
-### 📄 [ApplyIQ](https://github.com/rizkynandapr/applyiq-web)
+### [ApplyIQ](https://github.com/rizkynandapr/applyiq-web)
 `React 19` `Vite` `n8n` `Supabase` `LLM`
 
 The repetitive parts of job hunting, done for you: match your resume to roles worth applying to, then draft a cover letter for each one.
@@ -95,7 +95,7 @@ The resume is parsed **in the browser** (pdf.js, mammoth) so nothing leaves as a
 <tr>
 <td width="50%" valign="top">
 
-### 🎯 [TalentScout](https://github.com/rizkynandapr/TalentScout-AI-Recruitment)
+### [TalentScout](https://github.com/rizkynandapr/TalentScout-AI-Recruitment)
 `Workflow Automation` `Prompt Engineering` `LLM`
 
 Screening CVs by hand doesn't scale, and two reviewers rarely agree on who's qualified anyway.
@@ -105,7 +105,7 @@ It takes a CV and a job description, runs an LLM gap analysis against the requir
 </td>
 <td width="50%" valign="top">
 
-### 📰 [Clickbait Detector](https://github.com/rizkynandapr/clickbait-detector)
+### [Clickbait Detector](https://github.com/rizkynandapr/clickbait-detector)
 `TensorFlow` `LSTM` `Streamlit` `HF Spaces`
 
 An LSTM trained on ~32k balanced English headlines — **~98% accuracy, 0.99 precision** on the clickbait class.
@@ -122,7 +122,7 @@ I put it behind a live Streamlit app so people could paste a headline and get an
 
 ---
 
-## 🎓 Education & certifications
+## Education & certifications
 
 - **S.Kom, Informatics** — Universitas Muhammadiyah Yogyakarta · 2021–2025
 - **Data Science Bootcamp** — Hacktiv8 Indonesia · 2026 *(480+ hrs — Python, SQL, ML)*
@@ -132,14 +132,16 @@ I put it behind a live Streamlit app so people could paste a headline and get an
 
 <div align="center">
 
-## 📊 GitHub in numbers
+## GitHub in numbers
 
 <img src="https://github-readme-stats-alpha-plum-70.vercel.app/api?username=rizkynandapr&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub stats" height="165"/>
 <img src="https://github-readme-stats-alpha-plum-70.vercel.app/api/top-langs/?username=rizkynandapr&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top languages" height="165"/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=rizkynandapr&theme=tokyo-night&hide_border=true&area=true&color=D97757&line=D97757&point=FFFFFF" alt="Activity graph" width="98%"/>
-
 <br/>
+
+<img src="https://streak-stats.demolab.com?user=rizkynandapr&theme=tokyonight&hide_border=true&border_radius=8" alt="GitHub streak" height="165"/>
+
+<br/><br/>
 
 *Building AI that does the work, so people don't have to.*
 
