@@ -133,11 +133,6 @@ I put it behind a live Streamlit app so people could paste a headline and get an
 
 </td>
 <td width="50%" valign="top">
-
-<br/><br/>
-
-*More in the works. Currently expanding LegalitasAI's corpus to halal certification and food licensing — the regulations small food businesses actually get stuck on.*
-
 </td>
 </tr>
 </table>
