@@ -32,7 +32,7 @@ I started out in data science, so when a problem actually needs Python or a trai
 
 ```yaml
 role:        AI Engineer · Automation Builder
-building:    LLM agents · RAG systems · n8n automations
+building:    LLM agents · RAG with citation guardrails · n8n automations
 good at:     making AI hold up with real users, not just in demos
 learning:    LLM Zoomcamp 2026, one production bug at a time
 ```
@@ -59,6 +59,7 @@ learning:    LLM Zoomcamp 2026, one production bug at a time
 **Web & Infra**
 
 ![React](https://img.shields.io/badge/React.js-61DAFB?logo=react&logoColor=black)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?logo=fastapi&logoColor=white)
 ![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?logo=supabase&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?logo=vercel&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white)
@@ -73,6 +74,20 @@ learning:    LLM Zoomcamp 2026, one production bug at a time
 <tr>
 <td width="50%" valign="top">
 
+### [LegalitasAI](https://github.com/rizkynandapr/legalitasai)
+`RAG` `FastAPI` `BM25 + RRF` `Claude` `Langfuse`
+
+60 million small businesses here, and the rules that bind them sit in dozens of legal documents nobody wrote for a shop owner to read. Ask a normal LLM and you get a confident answer that's sometimes wrong. In legal territory, wrong means fines.
+
+So I built a RAG that **isn't allowed to answer without proof**. Every claim has to cite the actual Pasal and Ayat, and a validator checks that citation exists in the source before the answer ships. Can't prove it, it refuses.
+
+It also knows which regulations got revoked. Moving that filter into the ranking step took Hit Rate@5 from 63.6% to **81.8%** — revoked docs were outscoring live ones and eating the whole top-5.
+
+**43 tests**, CI with an eval-gate, 7 ADRs.
+
+</td>
+<td width="50%" valign="top">
+
 ### [WhatsApp AI Chatbot for SMBs](https://github.com/rizkynandapr/n8n-whatsapp-ai-chatbot)
 `n8n` `WhatsApp Cloud API` `Claude API` `Sheets`
 
@@ -81,6 +96,8 @@ My cousin makes raincoats. Every rainy season, one person drowns trying to answe
 It turns a WhatsApp Business number into an agent that answers with conversation memory, spots a complete order and logs it to Sheets, pings the owner right away, and chases up leads that went quiet. Everything client-specific sits in one node, so standing it up for the next business takes **under 30 minutes.**
 
 </td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 
 ### [ApplyIQ](https://github.com/rizkynandapr/applyiq-web)
@@ -91,8 +108,6 @@ The repetitive parts of job hunting, done for you: match your resume to roles wo
 The resume is parsed **in the browser** (pdf.js, mammoth) so nothing leaves as a raw file. An n8n pipeline scores each listing against your profile, and the results land on a Supabase dashboard with match meters and one-click copy.
 
 </td>
-</tr>
-<tr>
 <td width="50%" valign="top">
 
 ### [TalentScout](https://github.com/rizkynandapr/TalentScout-AI-Recruitment)
@@ -103,6 +118,8 @@ Screening CVs by hand doesn't scale, and two reviewers rarely agree on who's qua
 It takes a CV and a job description, runs an LLM gap analysis against the requirements, and scores fit on **fixed weights** (40% hard skills, 30% experience, 20% education, 10% achievements) so every candidate gets judged the same way. Output is an HTML dashboard a hiring manager can actually act on.
 
 </td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 
 ### [Clickbait Detector](https://github.com/rizkynandapr/clickbait-detector)
@@ -113,6 +130,13 @@ An LSTM trained on ~32k balanced English headlines — **~98% accuracy, 0.99 pre
 I put it behind a live Streamlit app so people could paste a headline and get an answer instead of trusting the number blind.
 
 → **[Try the live demo](https://huggingface.co/spaces/nandutt/clickbait_detektor)**
+
+</td>
+<td width="50%" valign="top">
+
+<br/><br/>
+
+*More in the works. Currently expanding LegalitasAI's corpus to halal certification and food licensing — the regulations small food businesses actually get stuck on.*
 
 </td>
 </tr>
