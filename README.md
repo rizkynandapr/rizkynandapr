@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <a href="https://rizkynandapr.vercel.app"><img src="https://img.shields.io/badge/portfolio-rizkynandapr.vercel.app-1E2838?style=flat-square&labelColor=F2B84B" alt="Portfolio"/></a>
+  <a href="https://portfolio-rizkynandapr.vercel.app/"><img src="https://img.shields.io/badge/portfolio-visit-1E2838?style=flat-square&logo=vercel&logoColor=white&labelColor=1E2838" alt="Portfolio"/></a>
   <a href="https://dev.to/rizkynandapr"><img src="https://img.shields.io/badge/writing-dev.to-1E2838?style=flat-square&logo=devdotto&logoColor=white" alt="dev.to"/></a>
   <a href="https://www.linkedin.com/in/rizky-nanda-praditia/"><img src="https://img.shields.io/badge/LinkedIn-1E2838?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
   <a href="https://huggingface.co/nandutt"><img src="https://img.shields.io/badge/Hugging%20Face-1E2838?style=flat-square&logo=huggingface&logoColor=F2B84B" alt="Hugging Face"/></a>
