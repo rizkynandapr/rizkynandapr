@@ -50,6 +50,10 @@ The write-up behind both. One reader found two real bugs from the comments alone
   <a href="https://github.com/rizkynandapr/TalentScout-AI-Recruitment"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/card-talentscout-dark.svg"><img alt="TalentScout: CV screening on fixed weights, 40/30/20/10." src="assets/card-talentscout-light.svg" width="49%"></picture></a> <a href="https://huggingface.co/spaces/nandutt/clickbait_detektor"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/card-clickbait-dark.svg"><img alt="Clickbait Detector: LSTM headline classifier, 98% accuracy." src="assets/card-clickbait-light.svg" width="49%"></picture></a>
 </p>
 
+<p>
+  <a href="https://github.com/rizkynandapr/rmt52-bandung-housing"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/card-rmt52-dark.svg"><img alt="RMT52 Bandung: house prices in Bandung from a one-line note. 7,701 listings mapped across 129 areas." src="assets/card-rmt52-light.svg" width="49%"></picture></a>
+</p>
+
 <br>
 
 <picture><source media="(prefers-color-scheme: dark)" srcset="assets/sec-stack-dark.svg"><img alt="03 Stack" src="assets/sec-stack-light.svg" width="100%"></picture>
